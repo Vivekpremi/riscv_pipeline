@@ -1,1 +1,1 @@
-test
+test using tbeyrc.
